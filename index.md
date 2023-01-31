@@ -24,11 +24,11 @@ I suppose when a get merge will do, because they basically do the same thing exc
 
 Create a new repo and demonstrate your knowledge of the following items with screenshots:
 
-- A rebase merge
+- ![A rebase merge](Screenshot (449).png)
 
-- An interactive rebase merge
+- ![An interactive rebase merge](Screenshot (450).png)
 
-- When you shouldn't rebase with a remote repo.
+- ![When you shouldn't rebase with a remote repo.](Screenshot (451).png)
 
 ## Git reset, checkout, and revert
 
