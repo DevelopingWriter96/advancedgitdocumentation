@@ -52,8 +52,6 @@ Checkout doesn't actually change anything just helps with navigation, git reset 
 Reset: When you want to entirely erase a change, Revert: When you simply need to fix a change, and Checkout: For Navigation
 One could almost equivalate the Reset to: Delete whilst the revert is simply an undo. And I have no idea why Checkout is in this section as it does not change the tree and is simply used for navigation
 
-Create a new repo and demonstrate your knowledge of the following items with screenshots:
-
 - a Git reset
 
 - a Git checkout
@@ -64,4 +62,12 @@ Create a new repo and demonstrate your knowledge of the following items with scr
 
 ## Git Submodules
 
+- What are Git submodules?
+A record that points to a specific commit in the tree
 
+- When would you use a submodule?
+For use in more complex projects
+
+- What are the advantages and disadvantages of Git submodules?
+Advantages: Better organization in larger projects, Better adding and management of commits to certain functions
+Disadvantages: Complexity and loss of ease of navigation if in the wrong module.
