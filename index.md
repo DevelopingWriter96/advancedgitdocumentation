@@ -52,13 +52,13 @@ Checkout doesn't actually change anything just helps with navigation, git reset 
 Reset: When you want to entirely erase a change, Revert: When you simply need to fix a change, and Checkout: For Navigation
 One could almost equivalate the Reset to: Delete whilst the revert is simply an undo. And I have no idea why Checkout is in this section as it does not change the tree and is simply used for navigation
 
-- a Git reset
+- ![A Git Reset](Screenshot (446).png)
 
-- a Git checkout
+- ![A Git Checkout](Screenshot (444).png)
 
-- a commit
+- ![A Git Commit](Screenshot (443).png)
 
-- a Git revert
+- ![A Git Revert](Screenshot (445).png)
 
 ## Git Submodules
 
